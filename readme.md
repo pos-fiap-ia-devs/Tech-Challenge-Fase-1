@@ -1,7 +1,7 @@
 # Tech Challenge - Fase 1: Análise de Dados de Dengue 2022
 
 ## 🦟 Projeto Tech Challenge IA para Devs - Sistema de Diagnóstico de Dengue com Machine Learning
-
+teste
 ### 📋 Visão Geral do Projeto
 
 **Objetivo Principal:** Desenvolver um modelo de Machine Learning capaz de auxiliar na triagem e diagnóstico de casos suspeitos de dengue, classificando-os como **Confirmado** ou **Descartado** com base em dados clínicos e epidemiológicos.
